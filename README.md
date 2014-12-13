@@ -6,7 +6,9 @@ This repository serves as an example for a basic Node.js application which is us
 Steps to run the app
 =====================
 * After cloning the repo, install the dependencies by running **npm install**
+* Create facebook and twitter apps and update the config files fb.js and twitter.js with the respective app details before running the server.
 * To start the server, run **npm start** on the base directory
+ 
 
 Perquisites
 ============
